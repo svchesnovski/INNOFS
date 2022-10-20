@@ -8,10 +8,6 @@
 Four-page site for a cafe-confectionery. 
 Четырехстраничный сайт для кафе-кондитерской.
 
-## Demo / Демо
-
-![mygif](/readme_assets/1gif.gif)
-
 ## Features / Функции
 
 1. The main page, which contains a description of the cafe-confectionery and current promotions. <br>Главная страница, которая содержит описание кафе-кондитерской и действующих акций.
