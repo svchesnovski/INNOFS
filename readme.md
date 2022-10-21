@@ -21,7 +21,14 @@ Four-page site for a cafe-confectionery.
 <img src="readme_assets/3.png" width="80%"></p>
 3. Page for placing an order. <br> Страница для оформления заказа.
 <p align="center">
-<img src="readme_assets/4.png" width="80%"></p>
+<img src="readme_assets/6.png" width="80%"></p>
+<p align="center">
+<img src="readme_assets/7.png" width="80%"></p>
+<p align="center">
+<img src="readme_assets/8.png" width="80%"></p>
+<p align="center">
+<img src="readme_assets/9.png" width="80%"></p>
+
 4. Page with contact details and locations. <br> Страница с контактными данными и адресами.
 <p align="center">
 <img src="readme_assets/5.png" width="80%"></p>
